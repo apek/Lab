@@ -20,47 +20,47 @@
     ],
     "mainPageRows": [
       {
-        "index": 1,
+        "index": 0,
         "subjectID": "UW2100",
         "description": "Must Watch"
       },
       {
-        "index": 2,
+        "index": 1,
         "subjectID": "UW2002",
         "description": "Info"
       },
       {
-        "index": 3,
+        "index": 2,
         "subjectID": "UW2005",
         "description": "Movies"
       },
       {
-        "index": 4,
+        "index": 3,
         "subjectID": "UW2001",
         "description": "International Variety"
       },
       {
-        "index": 5,
+        "index": 4,
         "subjectID": "UW2009",
         "description": "Malaysian Variety"
       },
       {
-        "index": 6,
+        "index": 5,
         "subjectID": "UW2011",
         "description": "Chinese Variety"
       },
       {
-        "index": 7,
+        "index": 6,
         "subjectID": "UW2004",
         "description": "Lifestyle & Knowledge"
       },
       {
-        "index": 8,
+        "index": 7,
         "subjectID": "UW2003",
         "description": "Kids"
       },
       {
-        "index": 9,
+        "index": 8,
         "subjectID": "UW2008",
         "description": "Sports"
       }
